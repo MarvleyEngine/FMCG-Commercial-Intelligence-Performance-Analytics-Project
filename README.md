@@ -49,6 +49,8 @@ Assess market share and numeric distribution using market intelligence data.
 Translate analytical findings into actionable commercial recommendations.
 
 Dataset Overview
+<img width="1622" height="836" alt="DATASET AND TABLES" src="https://github.com/user-attachments/assets/14c24c83-6acb-4977-a319-20e5d7349033" />
+
 
 **1. Commercial Transaction Dataset**
 
@@ -117,6 +119,11 @@ Data Analytics: Trend analysis, comparative analysis and commercial performance 
 **Key Performance Indicators**
 
 The dashboard tracks the following indicators:
+<img width="1571" height="906" alt="DATAFLOW" src="https://github.com/user-attachments/assets/b0c09ad7-117b-4c10-b009-6835e41db1d2" />
+
+
+<img width="1040" height="807" alt="DATA MODEL" src="https://github.com/user-attachments/assets/a1be7386-9c65-43f7-8446-72d368acff4e" />
+
 
 KPI				Business Purpose
 
@@ -151,6 +158,9 @@ Revenue and contribution by region, channel and product.
 Competitor and category comparisons.
 **
 Key Findings**
+
+<img width="1305" height="740" alt="DASHBOARD" src="https://github.com/user-attachments/assets/68a50a53-ac83-4d04-ba6a-7699689b06d3" />
+
 
 The transaction analysis produced the following findings:
 
@@ -203,6 +213,9 @@ The dashboard also provides market share, numeric distribution and category-leve
 These indicators help assess competitive positioning and identify potential opportunities to improve market presence and distribution reach.
 
 **Management Recommendations**
+
+<img width="1802" height="973" alt="SLIDES " src="https://github.com/user-attachments/assets/8a94937a-0f91-4490-b456-cda4883a87b5" />
+
 
 The analysis supports the following priorities:
 
