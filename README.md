@@ -50,7 +50,7 @@ Translate analytical findings into actionable commercial recommendations.
 
 Dataset Overview
 
-1. Commercial Transaction Dataset
+**1. Commercial Transaction Dataset**
 
 The primary transaction dataset contains 4,539 records covering January to September 2025.
 
@@ -74,7 +74,7 @@ Sales					Gross_Sales_USD, Discounts_USD, Net_Sales_Revenue_USD
 
 Cost and Profitability			COGS_USD, Contribution_Margin_USD
 
-2. Market Intelligence Dataset
+**2. Market Intelligence Dataset**
 
 The market intelligence component supports competitor and market positioning analysis.
 
@@ -102,7 +102,7 @@ The company's brands are identified using the ECCBC brand naming convention.
 
 Note: The market intelligence data is a separate analytical input from the transaction extract.
 
-Tools & Technologies
+**Tools & Technologies**
 
 Power BI: Interactive dashboard development and business reporting.
 
@@ -114,7 +114,7 @@ Microsoft Excel: Initial data inspection and validation.
 
 Data Analytics: Trend analysis, comparative analysis and commercial performance evaluation.
 
-Key Performance Indicators
+**Key Performance Indicators**
 
 The dashboard tracks the following indicators:
 
@@ -149,12 +149,12 @@ Month-on-Month performance.
 Revenue and contribution by region, channel and product.
 
 Competitor and category comparisons.
-
-Key Findings
+**
+Key Findings**
 
 The transaction analysis produced the following findings:
 
-Overall Performance
+**Overall Performance**
 
 Actual volume: approximately 247.8K UC.
 
@@ -164,7 +164,7 @@ Contribution Margin: approximately $765.13K.
 
 Contribution margin percentage: approximately 31.8%.
 
-Monthly Performance
+**Monthly Performance**
 
 May recorded the highest monthly net sales revenue at approximately $309.05K.
 
@@ -172,8 +172,8 @@ However, revenue declined by approximately 20.1% between May and September, whil
 
 This indicates that the revenue slowdown should be investigated beyond volume alone, particularly through realised pricing, discounting and product mix.
 
-Regional Performance
-
+**Regional Performance
+**
 The three largest revenue-generating regions were:
 
 Eastern: approximately $621.40K.
@@ -184,25 +184,25 @@ Ashanti: approximately $419.85K.
 
 Together, these regions contributed approximately 66% of total net sales revenue.
 
-Channel Performance
+**Channel Performance**
 
 Traditional Trade generated the highest revenue in the transaction dataset, at approximately $1.22M.
 
 On-Premise / HoReCa recorded a contribution margin percentage of approximately 36.1%, making it an attractive channel for further commercial evaluation.
-
-Product Performance
+**
+Product Performance**
 
 SKU-203 generated the highest net sales revenue, approximately $339.17K.
 
 However, its contribution margin percentage was approximately 27.8%, indicating an opportunity to investigate its pricing, cost structure and discounting.
 
-Market Intelligence
-
+**Market Intelligence
+**
 The dashboard also provides market share, numeric distribution and category-level comparisons.
 
 These indicators help assess competitive positioning and identify potential opportunities to improve market presence and distribution reach.
 
-Management Recommendations
+**Management Recommendations**
 
 The analysis supports the following priorities:
 
@@ -218,7 +218,7 @@ Improve product, customer, country and channel data standardisation.
 
 Use market share and numeric distribution analysis to identify competitive gaps and prioritise distribution expansion.
 
-Project Deliverables
+**Project Deliverables**
 
 Interactive Power BI Commercial Intelligence Dashboard.
 
@@ -234,14 +234,14 @@ Management recommendations.
 
 Interview presentation summarising key findings.
 
-Business Value
-
+**Business Value
+**
 This project demonstrates how commercial data can be transformed into meaningful management intelligence.
 
 By integrating sales performance, profitability, regional distribution and market intelligence, the solution provides a consolidated view of business performance and helps management identify where to protect revenue, improve margins and pursue growth opportunities.
 
-Disclaimer
-
+**Disclaimer
+**
 This is a portfolio and analytical case study. The dataset is used for demonstration and analysis purposes and should not be interpreted as verified company financial reporting.
 
 The transaction dataset covers January–September 2025. Market intelligence indicators are sourced separately and should be interpreted within their respective reporting periods.
