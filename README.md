@@ -7,6 +7,7 @@ Using Power BI, the project develops an interactive Commercial Intelligence Dash
 
 The analysis moves beyond descriptive reporting by connecting business performance indicators to practical management recommendations.
 
+****
 Business Problem
 
 Commercial teams need visibility into how sales, revenue and profitability are performing across markets, regions, products and distribution channels.
@@ -55,41 +56,23 @@ The primary transaction dataset contains 4,539 records covering January to Septe
 
 It contains 14 columns, including:
 
-Data Category
+Data Category				Key Fields
 
-Key Fields
+Transaction				Transaction_ID, Date
 
-Transaction
+Geography				Country, Region
 
-Transaction_ID, Date
+Distribution				Channel
 
-Geography
+Customer				Customer_ID, Customer_Name
 
-Country, Region
+Product					SKU
 
-Distribution
+Volume					Volume_UC
 
-Channel
+Sales					Gross_Sales_USD, Discounts_USD, Net_Sales_Revenue_USD
 
-Customer
-
-Customer_ID, Customer_Name
-
-Product
-
-SKU
-
-Volume
-
-Volume_UC
-
-Sales
-
-Gross_Sales_USD, Discounts_USD, Net_Sales_Revenue_USD
-
-Cost and Profitability
-
-COGS_USD, Contribution_Margin_USD
+Cost and Profitability			COGS_USD, Contribution_Margin_USD
 
 2. Market Intelligence Dataset
 
@@ -135,41 +118,23 @@ Key Performance Indicators
 
 The dashboard tracks the following indicators:
 
-KPI
+KPI				Business Purpose
 
-Business Purpose
+Actual Volume			Measures sales volume in units of cases
 
-Actual Volume
+Net Sales Revenue (NSR)		Measures revenue after discounts
 
-Measures sales volume in units of cases
+Contribution Margin (CM)	Evaluates profitability after cost of goods sold
 
-Net Sales Revenue (NSR)
+Volume vs Budget %		Measures volume performance against target
 
-Measures revenue after discounts
+NSR vs Budget %			Measures revenue performance against target
 
-Contribution Margin (CM)
+CM vs Budget %			Measures contribution margin performance against target
 
-Evaluates profitability after cost of goods sold
+Market Share %			Measures the company's share of category value
 
-Volume vs Budget %
-
-Measures volume performance against target
-
-NSR vs Budget %
-
-Measures revenue performance against target
-
-CM vs Budget %
-
-Measures contribution margin performance against target
-
-Market Share %
-
-Measures the company's share of category value
-
-Numeric Distribution %
-
-Measures distribution reach across the customer universe
+Numeric Distribution %		Measures distribution reach across the customer universe
 
 Additional analytical measures include:
 
