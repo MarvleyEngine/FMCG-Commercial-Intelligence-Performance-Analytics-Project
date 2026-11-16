@@ -7,6 +7,9 @@ Using Power BI, the project develops an interactive Commercial Intelligence Dash
 
 The analysis moves beyond descriptive reporting by connecting business performance indicators to practical management recommendations.
 
+<img width="903" height="592" alt="ARCH" src="https://github.com/user-attachments/assets/147e79a0-21df-42f5-ac36-e2e7fbdab69a" />
+
+
 ****
 Business Problem
 
